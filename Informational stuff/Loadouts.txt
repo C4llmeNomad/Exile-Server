@@ -1,0 +1,150 @@
+LVL 1
+U_C_WorkerOveralls
+hgun_ACP2C_F
+V_Rangemaster_belt
+
+LVL 2
+U_IK_Kabeiroi_5
+hgun_P99_khi_F
+V_Rangemaster_belt
+H_Cap_blu
+
+LVL 3
+U_OB_Bandit_5
+hgun_Pistol_heavy_02_F
+V_Rangemaster_belt
+H_Bandanna_cbr
+
+LVL 4
+U_C_Commoner4_1
+hgun_Pistol_heavy_02_F
+optic_Yorris
+acc_flashlight_pistol
+V_Rangemaster_belt
+H_Watchcap_sgg
+
+LVL 5
+U_Flames_F
+rhsusf_weap_glock17g4
+acc_flashlight_pistol
+V_LegStrapBag_black_F
+H_Hat_brown
+
+LVL 6
+U_IK_Kabeiroi_1
+hgun_Pistol_heavy_01_F
+acc_flashlight_pistol
+optric_MRD
+V_LegStrapBag_black_F
+H_Cap_brn_SERO
+
+LVL 7
+U_BG_Guerrilla_6_1
+rhsusf_weap_glock17g4
+acc_flashlight_pistol
+rhsusf_acc_omega9k
+V_LegStrapBag_black_F
+H_Booniehat_CTRG_F
+
+LVL 8
+U_I_C_Soldier_Para_4_F
+hgun_Pistol_heavy_01_F
+acc_flashlight_pistol
+optric_MRD
+muzzle_sdns_pistol_heavy_01
+V_LegStrapBag_black_F
+H_Booniehat_oli
+
+LVL 9 <----
+U_I_RiotPoliceBody 
+rhs_weap_lzh18  
+V_LegStrapBag_black_F
+H_Cap_police
+rhs_assault_umbts
+
+LVL 10
+U_BG_Guerilla1_2_F
+sgun_M4_F
+V_LegStrapBag_black_F
+H_MilCap_dgtl
+B_OutdoorPack_tan
+
+LVL 11
+U_C_HunterBody_grn
+Exile_Weapon_CZ550
+V_LegStrapBag_black_F
+H_Booniehat_tan
+B_OutdoorPack_blu
+
+LVL 12
+U_IR_PilotCoveralls
+rhs_weap_m38
+V_LegStrapBag_black_F
+H_HeadBandage_bloody_F
+B_AssaultPack_Kerry
+
+LVL 13
+U_I_G_resistanceLeader_F
+rhs_weap_kar98k
+V_LegStrapBag_black_F
+H_Booniehat_deu_wdl_F
+rhs_rpg_empty
+
+LVL 14
+U_B_CTRG_Soldier_alt_2_F
+rhs_weap_pp2000
+optic_aco_smg
+V_BandollierB_sgg
+H_Booniehat_dazzle
+rhs_sidor
+
+LVL 15
+U_B_E_Soldier_AR_ita_wdl_F
+SMG_01_khk_F
+optic_Holosight_smg_khk_F
+muzzle_mzls_acp
+V_BandollierB_sgg
+H_Booniehat_ita_wdl_F
+B_FieldPack_khk
+
+LVL 16
+U_B_CombatUniform_ddgtl_tshirt
+rhsusf_weap_MP7A1_aor1
+rhsusf_acc_eotech_552_d
+rhsusf_acc_anpeq15_wmx_light
+rhsusf_acc_rotex_mp7_aor1
+rhsusf_acc_grip2
+V_BandollierB_sgg
+H_Booniehat_ddgtl
+rhsusf_assault_eagleaiii_coy
+
+LVL 17
+U_B_E_Soldier_AR_fra_F
+Exile_Weapon_LeeEnflield
+V_BandollierB_sgg
+H_Booniehat_fra_F
+B_BergenC_blu
+
+LVL 18
+U_B_E_Soldier_AR_deu_F
+rhs_weap_mosin_sbr
+optic_aco
+V_BandollierB_sgg
+H_Booniehat_deu_F
+B_BergenC_red
+
+LVL 19
+U_B_E_Soldier_AR_ndl_F
+rhs_weap_m38_rail
+optic_aco
+V_BandollierB_sgg
+H_Booniehat_nld_F
+B_BergenC_grn
+
+LVL 20
+U_B_E_Soldier_AR_F
+rhs_weap_m24sws_blk
+rhsusf_acc_eotech_xps3
+V_BandollierB_sgg
+H_Booniehat_ubacs_F
+B_BergenC_grn

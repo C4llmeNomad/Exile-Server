@@ -1,0 +1,37 @@
+MODS
+
+Advanced Rappeling
+Advanced Sling Loading
+Advanced Urban Rappelling
+Advanced Towing
+JSRS
+JSRS additional weapon handling
+
+
+SCRIPTS
+
+Missions XX
+Revive Script XX
+Virtuelle Garage XX
+Vector Building XX
+SpawnGear nach Respect XX
+Base Raiding Scripts XX
+Kisten in Fahrzeuge laden
+Halo Jump von Heli XX
+Externes AdminTool (like DarT)
+XM8 Apps?
+
+SONSTIGES
+
+Trader
+LootTable
+Vehicle Spawn
+Homepage
+Regeln
+Malte will MusikBot
+
+
+NOTES
+Aegis serverkey richtig?
+cup terrains evtl orderstruktur ändern, siehe txt
+Watercooler bei jedem trader?

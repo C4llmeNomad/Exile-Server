@@ -1,0 +1,5 @@
+goto arma 3 server folder
+
+/home/user/home/Schreibtisch/Steam/arma3
+
+./arma3server -cfg=@ExileServer/basic.cfg -config=@ExileServer/config.cfg -autoinit -mod=@Exile\;@cup_terrains\;@esseker\;@enhanced_movement\;@aegis\;@fox_survivalcars\;@extended_base_mod\;@extended_items_exile\;@rhsusaf\;@rhsafrf\;@rhssaf\;@rhsgref\; -servermod=@ExileServer\;@cup_terrains\;@esseker\;@enhanced_movement\;@aegis\;@fox_survivalcars\;@extended_base_mod\;@extended_items_exile\;@rhsusaf\;@rhsafrf\;@rhssaf\;@rhsgref\;@dms\;@Enigma\;@infiSTAR_Exile\; >> serverlog.rpt
