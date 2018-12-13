@@ -1,0 +1,151 @@
+version=53;
+class EditorData
+{
+	moveGridStep=1;
+	angleGridStep=0.2617994;
+	scaleGridStep=1;
+	autoGroupingDist=10;
+	toggles=1;
+	class ItemIDProvider
+	{
+		nextID=25;
+	};
+	class MarkerIDProvider
+	{
+		nextID=8;
+	};
+	class Camera
+	{
+		pos[]={9727.3545,65.915726,4942.2749};
+		dir[]={-0.5588339,-0.32054442,0.76484495};
+		up[]={-0.18911004,0.94723064,0.25882429};
+		aside[]={0.80744809,-1.5366822e-008,0.58995801};
+	};
+};
+binarizationWanted=0;
+addons[]=
+{
+	"A3_Ui_F"
+};
+class AddonsMetaData
+{
+	class List
+	{
+		items=1;
+		class Item0
+		{
+			className="A3_Ui_F";
+			name="Arma 3 - User Interface";
+			author="Bohemia Interactive";
+			url="https://www.arma3.com";
+		};
+	};
+};
+randomSeed=4782634;
+class ScenarioData
+{
+	author="ƈ4ʅʅ_ɱҽ_ɳσɱαԃ";
+};
+class Mission
+{
+	class Intel
+	{
+		timeOfChanges=1800.0002;
+		startWeather=0.2;
+		startWind=0.1;
+		startWaves=0.1;
+		forecastWeather=0.60000002;
+		forecastWind=0.1;
+		forecastWaves=0.1;
+		forecastLightnings=0.1;
+		year=2015;
+		month=3;
+		day=5;
+		hour=11;
+		minute=0;
+		startFogBase=250;
+		forecastFogBase=250;
+		startFogDecay=0.014;
+		forecastFogDecay=0.014;
+	};
+	class Entities
+	{
+		items=8;
+		class Item0
+		{
+			dataType="Marker";
+			position[]={5286.0381,201.35001,7825.1851};
+			name="marker_0";
+			type="mil_circle";
+			a=1.5;
+			b=1.5;
+			id=0;
+		};
+		class Item1
+		{
+			dataType="Marker";
+			position[]={7115.5308,4.9489999,3626.6841};
+			name="marker_1";
+			type="mil_circle";
+			a=1.5;
+			b=1.5;
+			id=15;
+			atlOffset=-0.00032281876;
+		};
+		class Item2
+		{
+			dataType="Marker";
+			position[]={908.46802,9.9300003,5452.791};
+			name="marker_2";
+			type="mil_circle";
+			a=1.5;
+			b=1.5;
+			id=19;
+		};
+		class Item3
+		{
+			dataType="Marker";
+			position[]={2665.4988,45.651367,7945.6206};
+			name="marker_3";
+			type="respawn_para";
+			id=20;
+			atlOffset=-64.730324;
+		};
+		class Item4
+		{
+			dataType="Marker";
+			position[]={8383.8027,19.556152,5729.5342};
+			name="marker_4";
+			type="respawn_para";
+			id=21;
+			atlOffset=-15.744274;
+		};
+		class Item5
+		{
+			dataType="Marker";
+			position[]={4401.9941,25.009274,5424.0063};
+			name="marker_5";
+			type="respawn_para";
+			id=22;
+		};
+		class Item6
+		{
+			dataType="Marker";
+			position[]={5157.3818,9.2969656,2676.8901};
+			name="marker_6";
+			type="respawn_para";
+			id=23;
+		};
+		class Item7
+		{
+			dataType="Marker";
+			position[]={9639.8936,5,4947.271};
+			name="marker_7";
+			text="Flugzeug Trader";
+			type="mil_circle";
+			a=1.5;
+			b=1.5;
+			id=24;
+		};
+	};
+};
